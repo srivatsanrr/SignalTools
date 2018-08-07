@@ -1,4 +1,4 @@
-This repository has signal analysis GUIs for different signal operations. 
+This repository has signal analysis GUIs for different signal operations in MATLAB. 
 
 1. Amplitude operation  - performs signal addition, subtraction multiplacation for two user generated signals as graphical inputs. 
 
